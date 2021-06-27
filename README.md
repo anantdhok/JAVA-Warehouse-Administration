@@ -7,7 +7,7 @@ Developed a JAVA application for Warehouse Administration, which supports Insert
 
 - JDK
 - Apache POI
-- Ecllipse IDE
+- Eclipse IDE
 
 
 ## Author
